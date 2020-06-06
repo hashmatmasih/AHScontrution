@@ -1,0 +1,24 @@
+#navbar {
+    background:rgba(17, 2, 2, 0.404) !important;
+}
+.nav-link {
+    color:white !important;
+}
+.fa-building,.fa-money {
+    font-size: 50px !important;
+}
+.card {
+    padding-top: 10px;
+    background-color: rgba(17, 2, 2, 0.404) !important;
+    color: white !important;
+    box-shadow: 4px 10px 20px grey;
+    
+}
+.container {
+    margin-top: 50px;
+
+}
+.fa-map-marker,.fa-envelope-o,.fa-server {
+    font-size: 50px !important;
+    color: yellow;
+}
